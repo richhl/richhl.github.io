@@ -1,2 +1,3 @@
-# richhl.github.io
-Prueba de publicación web
+---
+permalink: /index.html
+---
